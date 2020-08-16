@@ -1,0 +1,66 @@
+{
+  "groups": [
+    {
+      "name": "com.forezp",
+      "type": "com.example.web.bean.User",
+      "sourceType": "com.example.web.bean.User"
+    },
+    {
+      "name": "my",
+      "type": "com.example.web.bean.ConfigBean",
+      "sourceType": "com.example.web.bean.ConfigBean"
+    }
+  ],
+  "properties": [
+    {
+      "name": "com.forezp.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.example.web.bean.User",
+      "defaultValue": 0
+    },
+    {
+      "name": "com.forezp.name",
+      "type": "java.lang.String",
+      "sourceType": "com.example.web.bean.User"
+    },
+    {
+      "name": "my.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.example.web.bean.ConfigBean",
+      "defaultValue": 0
+    },
+    {
+      "name": "my.greeting",
+      "type": "java.lang.String",
+      "sourceType": "com.example.web.bean.ConfigBean"
+    },
+    {
+      "name": "my.max",
+      "type": "java.lang.Integer",
+      "sourceType": "com.example.web.bean.ConfigBean",
+      "defaultValue": 0
+    },
+    {
+      "name": "my.name",
+      "type": "java.lang.String",
+      "sourceType": "com.example.web.bean.ConfigBean"
+    },
+    {
+      "name": "my.number",
+      "type": "java.lang.Integer",
+      "sourceType": "com.example.web.bean.ConfigBean",
+      "defaultValue": 0
+    },
+    {
+      "name": "my.uuid",
+      "type": "java.lang.String",
+      "sourceType": "com.example.web.bean.ConfigBean"
+    },
+    {
+      "name": "my.value",
+      "type": "java.lang.String",
+      "sourceType": "com.example.web.bean.ConfigBean"
+    }
+  ],
+  "hints": []
+}
